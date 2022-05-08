@@ -1,0 +1,10 @@
+{
+  "localterra": {
+    "clicker": {
+      "codeId": "6",
+      "contractAddresses": {
+        "default": "terra19zpyd046u4swqpksr3n44cej4j8pg6ah2y6dcg"
+      }
+    }
+  }
+}
